@@ -23,3 +23,4 @@ print(type(name))
 
 is_completed=True
 print(type(is_completed))
+
