@@ -1,3 +1,5 @@
+# strings are imutable 
+
 name='gaurav'
 name="aman sk"
 
